@@ -1,3 +1,12 @@
+---
+title: Smart API
+emoji: 🚀
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_file: main.py
+pinned: false
+---
 # Smart Task Automation OpenEnv API
 
 ## Description
